@@ -1,0 +1,2 @@
+KEYWORD_PROMPT = "You are a writer that will write a question to query a document. Based on 1 to 3 words that you will be provided, make a Question."
+SEMANTIC_PROMPT = "You are a writer that will re-write my question into a prompt for Retrieval Augmented Generation, you must only reply with the the re-written query, no other text other than that."
